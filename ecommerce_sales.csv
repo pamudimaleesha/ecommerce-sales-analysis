@@ -1,0 +1,151 @@
+Order ID,Order Date,Months,Customer Name,Region,Category,Product,Quantity,Unit Price,Sales,Sales Check,Profit,Payment Method
+ORD0001,2026-07-08 00:00:00,July,Nimali Silva,Sabaragamuwa,Electronics,Laptop,6,171901.06,1031406.36,1031406.36,128556.7,Cash
+ORD0002,2026-06-04 00:00:00,June,Kasun Perera,Sabaragamuwa,Stationery,Notebook,1,1102.49,1102.49,1102.49,139.5,Card
+ORD0003,2026-01-02 00:00:00,January,Amaya Fernando,North Central,Stationery,Pen Set,4,916.07,3664.28,3664.28,886.34,Bank Transfer
+ORD0004,2026-01-24 00:00:00,January,Piumi Silva,Central,Accessories,Mouse,2,7094.38,14188.76,14188.76,2090.27,Bank Transfer
+ORD0005,2026-04-07 00:00:00,April,Nimali Silva,Sabaragamuwa,Accessories,USB Cable,1,2614.87,2614.87,2614.87,489.62,Bank Transfer
+ORD0006,2026-07-17 00:00:00,July,Sahan Kumara,Central,Accessories,Mouse,6,5940.42,35642.52,35642.52,7565.22,Card
+ORD0007,2026-02-11 00:00:00,February,Tharushi Perera,North Western,Electronics,Monitor,3,54487.51,163462.53,163462.53,40346.16,Card
+ORD0008,2026-03-04 00:00:00,March,Amaya Fernando,Uva,Accessories,Keyboard,5,12323.95,61619.75,61619.75,11512.29,Online
+ORD0009,2026-01-15 00:00:00,January,Dilan Jayasinghe,Western,Accessories,Mouse,6,6271.57,37629.42,37629.42,8792.59,Bank Transfer
+ORD0010,2026-08-13 00:00:00,August,Tharushi Perera,Northern,Stationery,Planner,1,1695.95,1695.95,1695.95,455.5,Online
+ORD0011,2026-05-24 00:00:00,May,Nethmi Wijesinghe,Eastern,Stationery,File Folder,2,667.08,1334.16,1334.16,172.54,Online
+ORD0012,2026-05-07 00:00:00,May,Nimali Silva,Western,Stationery,Planner,2,1979.04,3958.08,3958.08,426.15,Cash
+ORD0013,2026-04-08 00:00:00,April,Chamod Senanayake,Uva,Home,Desk,6,63988.08,383928.48,383928.48,35592.3,Bank Transfer
+ORD0014,2026-07-16 00:00:00,July,Tharushi Perera,Central,Electronics,Laptop,6,193852.38,1163114.28,1163114.28,267720.48,Bank Transfer
+ORD0015,2026-07-04 00:00:00,July,Sahan Kumara,Sabaragamuwa,Stationery,Pen Set,4,810.58,3242.32,3242.32,727.64,Card
+ORD0016,2026-04-06 00:00:00,April,Amaya Fernando,Sabaragamuwa,Electronics,Headphones,6,18027.59,108165.54,108165.54,12956.31,Cash
+ORD0017,2026-08-01 00:00:00,August,Sahan Kumara,Northern,Accessories,Webcam,1,12913.23,12913.23,12913.23,1970.51,Cash
+ORD0018,2026-07-14 00:00:00,July,Nethmi Wijesinghe,Southern,Home,Office Chair,1,43948.02,43948.02,43948.02,10688.36,Card
+ORD0019,2026-02-24 00:00:00,February,Nethmi Wijesinghe,Northern,Stationery,Pen Set,3,904.98,2714.94,2714.94,546.57,Bank Transfer
+ORD0020,2026-03-05 00:00:00,March,Dilan Jayasinghe,Central,Stationery,Planner,4,1943.86,7775.44,7775.44,1324.14,Bank Transfer
+ORD0021,2026-06-11 00:00:00,June,Kasun Perera,Northern,Electronics,Smartphone,5,89684.13,448420.65,448420.65,42240.61,Cash
+ORD0022,2026-05-05 00:00:00,May,Dilan Jayasinghe,Sabaragamuwa,Electronics,Headphones,1,18050.96,18050.96,18050.96,2449.43,Card
+ORD0023,2026-01-25 00:00:00,January,Piumi Silva,North Western,Stationery,Pen Set,4,955.35,3821.4,3821.4,451.24,Online
+ORD0024,2026-06-15 00:00:00,June,Nimali Silva,Western,Stationery,File Folder,6,637.58,3825.48,3825.48,805.99,Online
+ORD0025,2026-02-05 00:00:00,February,Piumi Silva,Southern,Accessories,Keyboard,2,11259.82,22519.64,22519.64,4216.96,Bank Transfer
+ORD0026,2026-05-21 00:00:00,May,Nimali Silva,Western,Stationery,Pen Set,1,889.76,889.76,889.76,224.46,Cash
+ORD0027,2026-08-10 00:00:00,August,Piumi Silva,Western,Electronics,Smartphone,2,93221.87,186443.74,186443.74,32864.75,Card
+ORD0028,2026-04-27 00:00:00,April,Sahan Kumara,North Central,Stationery,Notebook,4,1143.65,4574.6,4574.6,1083.33,Online
+ORD0029,2026-07-08 00:00:00,July,Nethmi Wijesinghe,Western,Home,Desk,3,61330.11,183990.33,183990.33,16871.3,Bank Transfer
+ORD0030,2026-05-16 00:00:00,May,Amaya Fernando,Western,Electronics,Laptop,5,179164.39,895821.95,895821.95,236387.19,Cash
+ORD0031,2026-04-14 00:00:00,April,Nimali Silva,Northern,Home,Office Chair,5,38370.87,191854.35,191854.35,48417.1,Cash
+ORD0032,2026-03-08 00:00:00,March,Dilan Jayasinghe,North Western,Electronics,Monitor,6,55920.4,335522.4,335522.4,61922.85,Card
+ORD0033,2026-03-22 00:00:00,March,Nimali Silva,Western,Accessories,Webcam,2,14480.73,28961.46,28961.46,4054.59,Online
+ORD0034,2026-03-31 00:00:00,March,Nimali Silva,Northern,Electronics,Laptop,5,169673.56,848367.8,848367.8,112866.92,Bank Transfer
+ORD0035,2026-06-06 00:00:00,June,Nethmi Wijesinghe,Western,Accessories,Mouse,4,6933.87,27735.48,27735.48,6121.44,Bank Transfer
+ORD0036,2026-05-22 00:00:00,May,Amaya Fernando,Eastern,Electronics,Smartphone,3,87693.14,263079.42,263079.42,26678.15,Bank Transfer
+ORD0037,2026-05-10 00:00:00,May,Ravindu Fernando,Eastern,Home,Table Lamp,2,8818.75,17637.5,17637.5,4419.65,Cash
+ORD0038,2026-02-03 00:00:00,February,Sahan Kumara,Southern,Electronics,Monitor,3,49984.95,149954.85,149954.85,22000.07,Online
+ORD0039,2026-02-08 00:00:00,February,Nethmi Wijesinghe,Western,Stationery,Notebook,1,1098.06,1098.06,1098.06,281.79,Bank Transfer
+ORD0040,2026-07-23 00:00:00,July,Kasun Perera,North Western,Home,Bookshelf,2,27250.97,54501.94,54501.94,8335,Card
+ORD0041,2026-04-15 00:00:00,April,Chamod Senanayake,Southern,Home,Office Chair,3,44352.98,133058.94,133058.94,34173.12,Card
+ORD0042,2026-03-27 00:00:00,March,Piumi Silva,Northern,Home,Desk,4,58822.22,235288.88,235288.88,53484.2,Bank Transfer
+ORD0043,2026-02-26 00:00:00,February,Dilan Jayasinghe,Uva,Home,Office Chair,4,45126.2,180504.8,180504.8,45436.42,Bank Transfer
+ORD0044,2026-03-26 00:00:00,March,Sahan Kumara,Central,Accessories,Mouse,2,5880.76,11761.52,11761.52,1395.22,Bank Transfer
+ORD0045,2026-01-08 00:00:00,January,Nimali Silva,Eastern,Accessories,Webcam,6,15347.22,92083.32,92083.32,17241.97,Card
+ORD0046,2026-07-21 00:00:00,July,Tharushi Perera,North Central,Accessories,Keyboard,1,12231.77,12231.77,12231.77,1824.21,Cash
+ORD0047,2026-05-14 00:00:00,May,Nethmi Wijesinghe,Northern,Stationery,Pen Set,3,817.99,2453.97,2453.97,410.33,Bank Transfer
+ORD0048,2026-06-19 00:00:00,June,Nimali Silva,Eastern,Stationery,Notebook,6,1300.99,7805.94,7805.94,1597.34,Bank Transfer
+ORD0049,2026-02-19 00:00:00,February,Piumi Silva,North Central,Stationery,Planner,4,1871,7484,7484,1428.56,Card
+ORD0050,2026-02-23 00:00:00,February,Piumi Silva,North Western,Accessories,Webcam,5,14934.43,74672.15,74672.15,10511.97,Online
+ORD0051,2026-08-19 00:00:00,August,Amaya Fernando,Central,Stationery,File Folder,6,659.92,3959.52,3959.52,691.48,Bank Transfer
+ORD0052,2026-02-20 00:00:00,February,Amaya Fernando,Western,Accessories,Keyboard,2,12414.71,24829.42,24829.42,3101.89,Cash
+ORD0053,2026-04-17 00:00:00,April,Chamod Senanayake,Northern,Home,Bookshelf,5,32098.43,160492.15,160492.15,15177.04,Online
+ORD0054,2026-08-17 00:00:00,August,Nimali Silva,North Central,Stationery,File Folder,2,650.66,1301.32,1301.32,283.07,Card
+ORD0055,2026-02-01 00:00:00,February,Ravindu Fernando,Southern,Home,Bookshelf,1,30344.43,30344.43,30344.43,7995.58,Online
+ORD0056,2026-04-20 00:00:00,April,Nethmi Wijesinghe,Uva,Accessories,Webcam,5,14882.02,74410.1,74410.1,19227.87,Card
+ORD0057,2026-03-12 00:00:00,March,Nethmi Wijesinghe,Uva,Stationery,File Folder,3,735.25,2205.75,2205.75,546.97,Card
+ORD0058,2026-03-27 00:00:00,March,Tharushi Perera,Sabaragamuwa,Accessories,Webcam,1,14597.93,14597.93,14597.93,1852.46,Cash
+ORD0059,2026-02-24 00:00:00,February,Nimali Silva,North Central,Home,Desk,2,63479.46,126958.92,126958.92,14036.71,Online
+ORD0060,2026-04-10 00:00:00,April,Chamod Senanayake,Western,Accessories,Webcam,4,12774.34,51097.36,51097.36,12599.5,Online
+ORD0061,2026-08-17 00:00:00,August,Piumi Silva,Sabaragamuwa,Stationery,Notebook,3,1151.67,3455.01,3455.01,545.88,Card
+ORD0062,2026-03-28 00:00:00,March,Piumi Silva,Southern,Stationery,Pen Set,3,888.45,2665.35,2665.35,228.7,Online
+ORD0063,2026-01-22 00:00:00,January,Piumi Silva,Southern,Home,Office Chair,4,42771.9,171087.6,171087.6,36373.22,Online
+ORD0064,2026-03-25 00:00:00,March,Tharushi Perera,North Central,Home,Office Chair,3,40984.47,122953.41,122953.41,15041.14,Bank Transfer
+ORD0065,2026-01-14 00:00:00,January,Tharushi Perera,Northern,Stationery,Planner,1,1789.31,1789.31,1789.31,411.19,Cash
+ORD0066,2026-02-09 00:00:00,February,Dilan Jayasinghe,Southern,Electronics,Laptop,2,169176.98,338353.96,338353.96,28447.45,Online
+ORD0067,2026-02-12 00:00:00,February,Chamod Senanayake,Central,Electronics,Smartphone,4,98789.83,395159.32,395159.32,92222.13,Card
+ORD0068,2026-06-23 00:00:00,June,Piumi Silva,North Central,Accessories,Keyboard,5,10861.63,54308.15,54308.15,7733.02,Card
+ORD0069,2026-06-25 00:00:00,June,Chamod Senanayake,Central,Electronics,Smartphone,1,98746.67,98746.67,98746.67,13855.79,Cash
+ORD0070,2026-03-29 00:00:00,March,Kasun Perera,North Central,Accessories,Webcam,6,13637.6,81825.6,81825.6,14826.16,Online
+ORD0071,2026-07-01 00:00:00,July,Amaya Fernando,North Central,Electronics,Monitor,3,56491.44,169474.32,169474.32,41646.87,Card
+ORD0072,2026-03-10 00:00:00,March,Tharushi Perera,Northern,Accessories,Webcam,4,13819.61,55278.44,55278.44,12504.27,Cash
+ORD0073,2026-06-21 00:00:00,June,Piumi Silva,North Western,Accessories,Webcam,2,14701.33,29402.66,29402.66,5703.23,Cash
+ORD0074,2026-03-08 00:00:00,March,Tharushi Perera,Eastern,Stationery,Planner,2,1795.52,3591.04,3591.04,542.12,Bank Transfer
+ORD0075,2026-05-23 00:00:00,May,Dilan Jayasinghe,Uva,Electronics,Smartphone,1,90085.76,90085.76,90085.76,14529.54,Online
+ORD0076,2026-03-04 00:00:00,March,Sahan Kumara,North Western,Stationery,Notebook,1,1150.62,1150.62,1150.62,185.11,Online
+ORD0077,2026-04-27 00:00:00,April,Sahan Kumara,Eastern,Accessories,Webcam,6,14141.09,84846.54,84846.54,12757.7,Bank Transfer
+ORD0078,2026-05-18 00:00:00,May,Amaya Fernando,Northern,Home,Office Chair,6,39417.71,236506.26,236506.26,24575.59,Card
+ORD0079,2026-06-02 00:00:00,June,Sahan Kumara,Central,Stationery,Planner,6,1832.25,10993.5,10993.5,2550.95,Card
+ORD0080,2026-05-17 00:00:00,May,Amaya Fernando,Eastern,Accessories,Mouse,3,6083.27,18249.81,18249.81,1511.63,Cash
+ORD0081,2026-07-12 00:00:00,July,Ravindu Fernando,Central,Electronics,Headphones,6,19598.72,117592.32,117592.32,24409.1,Cash
+ORD0082,2026-01-14 00:00:00,January,Sahan Kumara,Uva,Accessories,Webcam,4,13833.31,55333.24,55333.24,6466.95,Cash
+ORD0083,2026-01-14 00:00:00,January,Amaya Fernando,Southern,Electronics,Monitor,4,50314.9,201259.6,201259.6,41437.17,Bank Transfer
+ORD0084,2026-06-02 00:00:00,June,Chamod Senanayake,Northern,Electronics,Smartphone,1,96103.39,96103.39,96103.39,15687.42,Online
+ORD0085,2026-03-20 00:00:00,March,Chamod Senanayake,Western,Stationery,File Folder,3,750.42,2251.26,2251.26,625.86,Cash
+ORD0086,2026-02-14 00:00:00,February,Nethmi Wijesinghe,Central,Home,Desk,3,67085.57,201256.71,201256.71,22422.3,Card
+ORD0087,2026-01-09 00:00:00,January,Dilan Jayasinghe,Eastern,Electronics,Monitor,4,57083.08,228332.32,228332.32,39725.83,Bank Transfer
+ORD0088,2026-07-22 00:00:00,July,Chamod Senanayake,Northern,Stationery,Notebook,6,1136.02,6816.12,6816.12,905.94,Online
+ORD0089,2026-02-06 00:00:00,February,Nimali Silva,Western,Electronics,Smartphone,6,88330.8,529984.8,529984.8,70555.02,Card
+ORD0090,2026-06-29 00:00:00,June,Piumi Silva,Eastern,Accessories,USB Cable,4,2312.18,9248.72,9248.72,2013.78,Online
+ORD0091,2026-03-24 00:00:00,March,Chamod Senanayake,Eastern,Stationery,Notebook,5,1089.57,5447.85,5447.85,906.55,Cash
+ORD0092,2026-01-06 00:00:00,January,Sahan Kumara,Western,Electronics,Smartphone,6,101383.21,608299.26,608299.26,118642.58,Card
+ORD0093,2026-06-12 00:00:00,June,Ravindu Fernando,Central,Stationery,File Folder,3,655.41,1966.23,1966.23,387.48,Online
+ORD0094,2026-02-11 00:00:00,February,Tharushi Perera,North Central,Accessories,Webcam,3,13498.96,40496.88,40496.88,4086.94,Online
+ORD0095,2026-03-06 00:00:00,March,Tharushi Perera,Central,Accessories,Webcam,5,12702.75,63513.75,63513.75,6199.7,Online
+ORD0096,2026-06-09 00:00:00,June,Ravindu Fernando,Uva,Electronics,Monitor,4,50096.24,200384.96,200384.96,36808.29,Cash
+ORD0097,2026-08-14 00:00:00,August,Ravindu Fernando,Central,Home,Table Lamp,5,7872.72,39363.6,39363.6,5416.66,Cash
+ORD0098,2026-01-24 00:00:00,January,Dilan Jayasinghe,Central,Home,Desk,3,65660.91,196982.73,196982.73,37515.42,Online
+ORD0099,2026-06-30 00:00:00,June,Sahan Kumara,North Central,Electronics,Smartphone,4,103220.41,412881.64,412881.64,57131.39,Online
+ORD0100,2026-06-03 00:00:00,June,Nethmi Wijesinghe,Southern,Stationery,Pen Set,4,909.23,3636.92,3636.92,569.97,Cash
+ORD0101,2026-07-30 00:00:00,July,Kasun Perera,Eastern,Accessories,Webcam,3,15215.9,45647.7,45647.7,8287.23,Bank Transfer
+ORD0102,2026-05-22 00:00:00,May,Nethmi Wijesinghe,North Central,Stationery,Pen Set,4,906.94,3627.76,3627.76,540.63,Online
+ORD0103,2026-08-08 00:00:00,August,Piumi Silva,Western,Accessories,Mouse,6,6160.45,36962.7,36962.7,5788.14,Bank Transfer
+ORD0104,2026-06-16 00:00:00,June,Amaya Fernando,Uva,Stationery,File Folder,4,768.38,3073.52,3073.52,732.97,Cash
+ORD0105,2026-05-15 00:00:00,May,Ravindu Fernando,Western,Home,Table Lamp,1,9136.12,9136.12,9136.12,1535.43,Card
+ORD0106,2026-03-28 00:00:00,March,Chamod Senanayake,North Central,Stationery,Pen Set,1,894.51,894.51,894.51,244.95,Cash
+ORD0107,2026-05-05 00:00:00,May,Nethmi Wijesinghe,Western,Accessories,Webcam,3,14355.04,43065.12,43065.12,11088.74,Cash
+ORD0108,2026-01-26 00:00:00,January,Nimali Silva,Uva,Home,Table Lamp,2,8919.5,17839,17839,2975.44,Card
+ORD0109,2026-04-02 00:00:00,April,Tharushi Perera,North Central,Accessories,Keyboard,1,11578.5,11578.5,11578.5,1056.24,Card
+ORD0110,2026-02-14 00:00:00,February,Nimali Silva,North Central,Home,Bookshelf,5,31090.8,155454,155454,18034.43,Card
+ORD0111,2026-03-07 00:00:00,March,Kasun Perera,Uva,Stationery,Pen Set,2,893.01,1786.02,1786.02,233.6,Bank Transfer
+ORD0112,2026-03-18 00:00:00,March,Piumi Silva,Eastern,Home,Office Chair,4,45739.98,182959.92,182959.92,50776.93,Online
+ORD0113,2026-04-08 00:00:00,April,Chamod Senanayake,North Western,Accessories,Mouse,4,6959.34,27837.36,27837.36,2820.78,Bank Transfer
+ORD0114,2026-08-10 00:00:00,August,Kasun Perera,Uva,Accessories,Keyboard,6,11749.93,70499.58,70499.58,5754.15,Bank Transfer
+ORD0115,2026-06-23 00:00:00,June,Amaya Fernando,Central,Home,Table Lamp,2,8732.25,17464.5,17464.5,3565.87,Cash
+ORD0116,2026-01-24 00:00:00,January,Sahan Kumara,North Western,Accessories,Webcam,1,14222.81,14222.81,14222.81,3221.07,Online
+ORD0117,2026-04-04 00:00:00,April,Nethmi Wijesinghe,Sabaragamuwa,Home,Desk,2,68724.67,137449.34,137449.34,35089.73,Bank Transfer
+ORD0118,2026-08-11 00:00:00,August,Tharushi Perera,Central,Home,Table Lamp,4,9294.55,37178.2,37178.2,5168.82,Online
+ORD0119,2026-04-12 00:00:00,April,Nethmi Wijesinghe,North Western,Electronics,Smartphone,2,101842.67,203685.34,203685.34,45797.29,Cash
+ORD0120,2026-06-22 00:00:00,June,Sahan Kumara,North Central,Stationery,Notebook,3,1208.78,3626.34,3626.34,619.95,Bank Transfer
+ORD0121,2026-05-24 00:00:00,May,Tharushi Perera,Northern,Electronics,Smartphone,4,85975.47,343901.88,343901.88,88330.16,Cash
+ORD0122,2026-01-10 00:00:00,January,Sahan Kumara,Uva,Stationery,Planner,6,1766.99,10601.94,10601.94,1144.54,Cash
+ORD0123,2026-06-21 00:00:00,June,Nethmi Wijesinghe,North Central,Electronics,Smartphone,5,88077.62,440388.1,440388.1,75186.91,Card
+ORD0124,2026-03-13 00:00:00,March,Kasun Perera,North Western,Stationery,Notebook,4,1227.76,4911.04,4911.04,1315.23,Card
+ORD0125,2026-06-25 00:00:00,June,Tharushi Perera,Sabaragamuwa,Stationery,File Folder,2,749.76,1499.52,1499.52,149.76,Bank Transfer
+ORD0126,2026-08-06 00:00:00,August,Ravindu Fernando,Central,Electronics,Monitor,3,51587.89,154763.67,154763.67,16162.27,Card
+ORD0127,2026-05-25 00:00:00,May,Dilan Jayasinghe,Central,Electronics,Laptop,3,170768.48,512305.44,512305.44,53886.73,Card
+ORD0128,2026-06-02 00:00:00,June,Kasun Perera,Eastern,Home,Desk,3,68566.79,205700.37,205700.37,48900.89,Card
+ORD0129,2026-02-03 00:00:00,February,Kasun Perera,North Western,Home,Table Lamp,2,7836.87,15673.74,15673.74,3969.99,Card
+ORD0130,2026-04-18 00:00:00,April,Nethmi Wijesinghe,Central,Accessories,Keyboard,2,11436.88,22873.76,22873.76,2409.79,Cash
+ORD0131,2026-05-09 00:00:00,May,Dilan Jayasinghe,Western,Stationery,File Folder,3,701.85,2105.55,2105.55,214.37,Bank Transfer
+ORD0132,2026-04-20 00:00:00,April,Nimali Silva,Uva,Stationery,Notebook,1,1319.66,1319.66,1319.66,329.2,Online
+ORD0133,2026-03-12 00:00:00,March,Chamod Senanayake,Sabaragamuwa,Electronics,Laptop,3,183898.71,551696.13,551696.13,51383.02,Bank Transfer
+ORD0134,2026-07-23 00:00:00,July,Nimali Silva,Sabaragamuwa,Stationery,Planner,4,1802,7208,7208,1196.82,Card
+ORD0135,2026-04-13 00:00:00,April,Piumi Silva,Central,Stationery,File Folder,2,687.93,1375.86,1375.86,337.75,Bank Transfer
+ORD0136,2026-06-25 00:00:00,June,Ravindu Fernando,Central,Stationery,Planner,6,1711.76,10270.56,10270.56,2780.43,Cash
+ORD0137,2026-07-27 00:00:00,July,Amaya Fernando,Sabaragamuwa,Electronics,Laptop,4,165476.32,661905.28,661905.28,150755.02,Cash
+ORD0138,2026-07-12 00:00:00,July,Piumi Silva,Western,Accessories,Keyboard,4,11648.64,46594.56,46594.56,9927.81,Bank Transfer
+ORD0139,2026-06-18 00:00:00,June,Ravindu Fernando,Northern,Accessories,USB Cable,1,2538.96,2538.96,2538.96,311.14,Cash
+ORD0140,2026-07-26 00:00:00,July,Piumi Silva,Sabaragamuwa,Accessories,USB Cable,1,2631.3,2631.3,2631.3,512.63,Cash
+ORD0141,2026-03-28 00:00:00,March,Tharushi Perera,Western,Accessories,Keyboard,2,11455.85,22911.7,22911.7,5326.56,Card
+ORD0142,2026-01-08 00:00:00,January,Nimali Silva,Sabaragamuwa,Home,Bookshelf,1,27851.25,27851.25,27851.25,5755.03,Card
+ORD0143,2026-07-04 00:00:00,July,Tharushi Perera,Central,Stationery,File Folder,4,677.73,2710.92,2710.92,417.51,Cash
+ORD0144,2026-04-24 00:00:00,April,Piumi Silva,Uva,Home,Desk,5,59146.91,295734.55,295734.55,28484.06,Online
+ORD0145,2026-04-21 00:00:00,April,Nimali Silva,Eastern,Stationery,Planner,2,1891.78,3783.56,3783.56,388.81,Online
+ORD0146,2026-01-02 00:00:00,January,Dilan Jayasinghe,Eastern,Accessories,Keyboard,2,11748.63,23497.26,23497.26,4696.28,Card
+ORD0147,2026-07-11 00:00:00,July,Piumi Silva,Southern,Home,Table Lamp,3,8207.81,24623.43,24623.43,2007.94,Card
+ORD0148,2026-04-01 00:00:00,April,Nimali Silva,North Central,Stationery,Pen Set,5,910.57,4552.85,4552.85,972.53,Cash
+ORD0149,2026-05-28 00:00:00,May,Piumi Silva,North Central,Stationery,Notebook,4,1301.08,5204.32,5204.32,1313.68,Online
+ORD0150,2026-07-25 00:00:00,July,Chamod Senanayake,Uva,Accessories,Keyboard,4,10850.06,43400.24,43400.24,6291.02,Bank Transfer
